@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarath-dtsc
 - 👀 I’m interested in Data science
-- 🌱 I’m currently learning Full stack Data scientist course from iNeuron
+- 🌱 I’m currently learning AWS machine learning 
 
 
 <!---
